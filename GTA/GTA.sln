@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GTA", "GTA\GTA.vcxproj", "{B6963DDC-5F8E-4BBB-BA84-596996F93077}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestLib", "TestLib\TestLib.vcxproj", "{14F4B579-87C0-4846-8FA3-1872B8CBEBF2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GTATests", "GTATests\GTATests.vcxproj", "{471BA68B-6682-4256-998E-5853D015C559}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GTALib", "GTALib\GTALib.vcxproj", "{376A7BBA-C597-43DD-AEE5-E71B59E634A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6963DDC-5F8E-4BBB-BA84-596996F93077}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B6963DDC-5F8E-4BBB-BA84-596996F93077}.Debug|Win32.Build.0 = Debug|Win32
+		{B6963DDC-5F8E-4BBB-BA84-596996F93077}.Release|Win32.ActiveCfg = Release|Win32
+		{B6963DDC-5F8E-4BBB-BA84-596996F93077}.Release|Win32.Build.0 = Release|Win32
+		{14F4B579-87C0-4846-8FA3-1872B8CBEBF2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{14F4B579-87C0-4846-8FA3-1872B8CBEBF2}.Debug|Win32.Build.0 = Debug|Win32
+		{14F4B579-87C0-4846-8FA3-1872B8CBEBF2}.Release|Win32.ActiveCfg = Release|Win32
+		{14F4B579-87C0-4846-8FA3-1872B8CBEBF2}.Release|Win32.Build.0 = Release|Win32
+		{471BA68B-6682-4256-998E-5853D015C559}.Debug|Win32.ActiveCfg = Debug|Win32
+		{471BA68B-6682-4256-998E-5853D015C559}.Debug|Win32.Build.0 = Debug|Win32
+		{471BA68B-6682-4256-998E-5853D015C559}.Release|Win32.ActiveCfg = Release|Win32
+		{471BA68B-6682-4256-998E-5853D015C559}.Release|Win32.Build.0 = Release|Win32
+		{376A7BBA-C597-43DD-AEE5-E71B59E634A3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{376A7BBA-C597-43DD-AEE5-E71B59E634A3}.Debug|Win32.Build.0 = Debug|Win32
+		{376A7BBA-C597-43DD-AEE5-E71B59E634A3}.Release|Win32.ActiveCfg = Release|Win32
+		{376A7BBA-C597-43DD-AEE5-E71B59E634A3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
