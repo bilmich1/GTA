@@ -30,3 +30,24 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio Temp file
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual C++ cache files
+ipch/
+inst/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+/Debug
+/Release
