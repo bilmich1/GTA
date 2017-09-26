@@ -49,5 +49,5 @@ inst/
 *.VC.db
 *.VC.VC.opendb
 
-/Debug
-/Release
+Debug/
+Release/
